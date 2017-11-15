@@ -1,0 +1,24 @@
+{
+  "name": "ignas",
+  "version": "1.0.0",
+  "description": "shopping-list-react-js",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ShoppingListReactJS.git"
+  },
+  "keywords": [
+    "react",
+    "javascript",
+    "shopping",
+    "list"
+  ],
+  "author": "Ignas Grigaravicius",
+  "license": "MIT"
+}
